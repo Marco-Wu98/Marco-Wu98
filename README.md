@@ -10,5 +10,5 @@ hi, im Marco_Wu98 🔮.
 # 📖 reverse engineering, computer science
 ```
 ------
-[jewdev](https://github.com/jewdev)
+
 Last Edited on: 22/12/2023
